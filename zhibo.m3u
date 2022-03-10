@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="英雄联盟",LPL
-https://hw.flv.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1-imgplus.flv?wsSecret=fb06a0be676618a395a4b885ee658563&wsTime=62287118&u=0&seqid=16467311601734912&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aq6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
-#EXTINF:-1 group-title="英雄联盟",姿态
+https://d1--cn-gotcha208.bilivideo.com/live-bvc/468857/live_50329118_9516950_bluray/index.m3u8?expires=1646915308&len=0&oi=2003058036&pt=h5&qn=10000&trid=10075f1f55119c9b4cf382065e63a1a728a2&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=4c08ec4f80187a5280262b5567bf0259&sk=c9c6154426932efa80d25af02e87a3bd&p2p_type=0&src=123021&sl=10&free_type=0&flowtype=1&machinezone=jd&pp=rtmp&slot=7&source=onetier&order=1&site=e43c7495ea446f6e47481a60ced92d9a#EXTINF:-1 group-title="英雄联盟",姿态
 https://hw.flv.huya.com/src/2367547387-2367547387-10168538598895255552-4735218230-10057-A-0-1-imgplus.flv?wsSecret=85ef7c2c0caf3007cf87eb490c9ff606&wsTime=622872f6&u=0&seqid=16467316658210190&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An4%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
 #EXTINF:-1 group-title="主机",楚河
 https://bd.flv.huya.com/src/294636272-294636272-1265453152455360512-589396000-10057-A-0-1-imgplus.flv?wsSecret=71326ce9cbdcb67c85104450d9d54320&wsTime=622881f2&u=0&seqid=16467354750032800&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An9%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
@@ -15,7 +14,7 @@ http://dyscdnali1.douyucdn.cn/live/290935r6IMHUPSs8.flv?uuid=
 #EXTINF:-1 group-title="云顶之奕",迈特怡
 http://dyscdnali1.douyucdn.cn/live/8165636rCUvE0VG0.flv?uuid=
 #EXTINF:-1 group-title="一起看",海棉宝宝
-https://al.flv.huya.com/src/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.flv?wsSecret=859bfec29055874784c50a6aca225c3f&wsTime=62288f9d&u=0&seqid=16467389984821598&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awx6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
+http://dyscdnali1.douyucdn.cn/live/2250349rP01IKhTQ.flv?uuid=
 #EXTINF:-1 group-title="炉石传说",春哥
 https://hw.flv.huya.com/src/20852986-20852986-89562892893945856-41829428-10057-A-0-1.flv?wsSecret=36cb509037127720307cf0e97b294f46&wsTime=62289082&u=0&seqid=16467392030235464&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azjeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
 #EXTINF:-1 group-title="一起看",田野上的繁荣
@@ -34,6 +33,8 @@ http://dyscdnali1.douyucdn.cn/live/32892rLAUE3gi9LQ.flv?uuid=
 http://dyscdnali1.douyucdn.cn/live/156277rzaCAF1aHo.flv?uuid=
 #EXTINF:-1 group-title="炉石传说",王师傅
 http://dyscdnali1.douyucdn.cn/live/21267rBDoqc9pdku.flv?uuid=
+#EXTINF:-1 group-title="炉石传说",夏一可
+http://dyscdnali1.douyucdn.cn/live/307876rBXYpiWYkR.flv?uuid=
 
 
 
